@@ -1,13 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package Aula_12_5_2022;
-
-/**
- *
- * @author 2110102369
- */
 public class Aluno {
     private String nome;
     private int idade;
